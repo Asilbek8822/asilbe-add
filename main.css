@@ -1,0 +1,46 @@
+.container{
+    width: 1500px;
+    height: 700px;
+    margin-top: -20px;
+    background-color: white;
+}
+.h1{
+    margin-left: 50px;
+    font-size: 50px;
+}
+.h2{
+    margin-left: 50px;
+    font-size: 50px;
+    color: rgb(173, 171, 171);
+}
+p{
+    margin-left: 50px;
+    margin-top: -20px;
+    color: rgb(173, 171, 171);
+}
+img{
+    margin-left: 40px;
+    width: 300px;
+    border-radius: 20px;
+}
+h3{
+    margin-left: 50px;
+    color: aliceblue;
+    margin-top: -85px;
+}
+
+.div1{
+    margin-left: 370px;
+    margin-top: -465px;
+}
+.div2{
+    margin-left: 740px;
+    margin-top: -465px;
+}
+.div3{
+    margin-left: 2px;
+}
+.div4{
+    margin-left: 1100px;
+    margin-top: -465px;
+}
